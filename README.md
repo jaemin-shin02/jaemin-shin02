@@ -5,6 +5,13 @@ Email : sour_jam0220@naver.com
 안녕하세요! 지속적으로 발전하기 위해 노력하는, 신재민입니다🙂
 
 Tech Stack
+* Html
+* CSS
+* JavaScript
+* React
+
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaemin-shin02)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
