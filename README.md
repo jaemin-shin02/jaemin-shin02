@@ -9,6 +9,8 @@ Email : sour_jam0220@naver.com
 * CSS
 * JavaScript
 * React
+* Java
+* Spring
   
   
   
