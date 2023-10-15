@@ -5,9 +5,7 @@ Email : sour_jam0220@naver.com
 안녕하세요! 지속적으로 발전하기 위해 노력하는, 신재민입니다🙂
 
 💻Tech Stack
-* Html
-* CSS
-* JavaScript
+* Html, CSS, JavaScript
 * React
 * Java
 * Spring
